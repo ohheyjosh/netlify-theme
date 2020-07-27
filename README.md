@@ -1,6 +1,6 @@
 # Netlify Theme
 
-> A Netlify-inspired dark theme for [Hyper](https://hyper.is/), [Slack](http://slack.com), [Terminal.app](http://www.apple.com/osx/apps), [Vim](http://www.vim.org/), [Xcode](https://itunes.apple.com/us/app/xcode/id497799835), [Zsh](http://www.zsh.org/) and many more.
+> A Netlify-inspired dark theme for [Hyper](https://hyper.is/), [Slack](https://slack.com), [VS Code](https://code.visualstudio.com/), [Zsh](https://www.zsh.org/) and many more.
 
 ## Color Palette
 
