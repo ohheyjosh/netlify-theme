@@ -1,5 +1,7 @@
 ### [Zsh](https://zsh.org/)
 
+![Screenshot](./screenshot.png)
+
 #### Install instructions
 
 1.  Install [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh/) if you don't have it already.

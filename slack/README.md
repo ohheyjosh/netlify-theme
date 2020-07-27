@@ -1,5 +1,7 @@
 ### [Slack](https://slack.com/)
 
+![Screenshot](./screenshot.png)
+
 #### Install instructions
 
 1.  Go to `User Menu > Preferences > Themes`

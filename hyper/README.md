@@ -1,5 +1,7 @@
 ### [Hyper](https://hyper.is/)
 
+![Screenshot](./screenshot.png)
+
 #### Install instructions
 
 1.  Create a new folder in `~/.hyper_plugins/local/` called `netlify`
