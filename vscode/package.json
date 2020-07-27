@@ -1,0 +1,26 @@
+{
+  "name": "netlify-vscode-theme",
+  "displayName": "netlify-vscode-theme",
+  "description": "Netlify Theme",
+  "publisher": "ohheyjosh",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ohheyjosh/netlify-theme.git"
+  },
+  "version": "1.2.4",
+  "engines": {
+    "vscode": "^1.47.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Netlify Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Netlify-color-theme.json"
+      }
+    ]
+  }
+}
