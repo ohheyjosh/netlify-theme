@@ -2,7 +2,7 @@
 
 > A Netlify-inspired dark theme for [Hyper](https://hyper.is/), [Slack](https://slack.com), [VS Code](https://code.visualstudio.com/), [Zsh](https://www.zsh.org/) and many more.
 
-![Screenshot](./slack/screenshot.png)
+![Screenshot](./vscode/screenshot.png)
 
 ## Color Palette
 
